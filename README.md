@@ -3,7 +3,7 @@
 A visually engaging Power BI dashboard designed to analyze airline performance, pricing patterns, flight operations, and passenger travel characteristics. The report transforms airline data into clear, interactive insights that help users quickly understand key trends and compare important metrics.
 
 Dashboard:1
-<img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/de245a4c-8536-49eb-9264-7ef5e5bc3056" />
+<img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/679d1f47-28f7-4d21-9d8b-9cd1d378ee9e" />
 Dashboard:2
 <img width="1317" height="738" alt="image" src="https://github.com/user-attachments/assets/c5fbb4d8-a381-4979-bd60-2d35874e0f94" />
 Dashboard:3
